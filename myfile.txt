@@ -1,2 +1,2 @@
 Welcome to my git file
-This is line 2 from master
+This is new line from develop
