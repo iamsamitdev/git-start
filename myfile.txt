@@ -1,3 +1,4 @@
 Welcome to my git file
 This is new line from develop
 This is line 3 from master
+This is line 3 from develop
